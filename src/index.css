@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav{
+  background-color: black;
+}
+
+.nav-one{
+  color: aliceblue;
+  font-family: monospace;
+  font-size: small;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.about{
+  font-size: large;
+  font-family: monospace;
+  text-align: center;
+  background-image: "my-tourism-app/src/beautiful.jpg" ;
+}
+
+.about-one{
+  color: aquamarine;
+}
